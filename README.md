@@ -5,5 +5,7 @@ No backend, no build step. Open index.html in a browser, or host the folder on G
 Add your files to uploads/ using the names in uploads/README.txt. To change text, edit index.html.
 
 
-ReadMe.md link:```https://github.com/Praise-Assumptah/PORTFOLIO/blob/main/README.md
+ReadMe.md link:
+```
+https://github.com/Praise-Assumptah/PORTFOLIO/blob/main/README.md
 ```
