@@ -106,7 +106,7 @@ footer{max-width:1120px;margin:40px auto 0;color:var(--mute);font-size:13.5px}
 .slot{position:relative;overflow:hidden;background:var(--panel)}
 .slot img{display:block;width:100%;height:100%;object-fit:cover;cursor:zoom-in}
 .slot.missing{display:flex;align-items:center;justify-content:center;text-align:center;border:1px dashed var(--edge);color:var(--mute);font-size:13px;padding:10px;cursor:default}
-.slot.missing::after{content:"Add file: " attr(data-file)}
+.slot.missing::after{content:" " attr(data-file)}
 .slot.missing img{display:none}
 .photo.slot.missing{background:#0f1a2e;color:#8592a8}
 .thumbs img[data-zoom]{cursor:zoom-in}
